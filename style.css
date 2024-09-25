@@ -26,6 +26,10 @@ body{
   left: 0;
 
 }
+.logo{
+  height: 70px;
+  width: 70px;
+}
 #navbar{
   display: flex;
   align-items: center;
@@ -844,9 +848,6 @@ footer a:hover{
 
 
 
-
-
-
 #cart-add{
   display: flex;
   flex-direction:row;
@@ -893,12 +894,6 @@ footer a:hover{
   padding: 10px;
   font-size: 14px;
 }
-
-
-
-
-
-
 
 
 /* media screen setting */
